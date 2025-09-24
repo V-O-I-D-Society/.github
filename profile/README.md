@@ -2,12 +2,12 @@
 
 <!-- 🔥 Reliable Hacker-Styled Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+ethical-buddy+profile...;chmod+1337+everything;Welcome+to+my+GitHub+terminal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+VOID+Society+terminal...;chmod+1337+everything;Welcome+to+the+VOID+Society+terminal" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm ethical-buddy</h1>
-<h3 align="center">Security-focused dev | Terminal enthusiast | DevOps gremlin</h3>
-<h4 align="center">> 🔐 *Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered.*
+<h1 align="center">VOID SOCIETY</h1>
+<h3 align="center">Low-Level & Cybersecurity Club @ KIET | Binary Breakers | Security Specialists</h3>
+<h4 align="center">> 🔐 *Diving deep into the machine, we secure what others can't see.*
 </h4>
 
 
@@ -21,68 +21,69 @@
 ---
 
 
-### 📈 Productivity Chart
+### 🚀 About Us
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&area=true&hide_border=true" width="100%">
-</p>
+VOID Society is KIET's specialized club focused on the intersection of low-level systems development and cybersecurity. We explore the depths of computer architecture, operating systems, and network protocols to understand security from first principles. Our community brings together students passionate about binary exploitation, reverse engineering, systems programming, and advanced threat detection. Through hands-on workshops, CTF competitions, and deep-dive projects, we build expertise in both creating and securing complex systems.
 
 ---
-### 🧰 Tools of the Trade (Cyber & Systems Dev) [click to view skills]
+### 🧰 Our Focus Areas [click to view skills]
 
 <details>
-<summary><strong>🖥️ Programming & Scripting</strong></summary>
+<summary><strong>🖥️ Low-Level Programming</strong></summary>
 
 <p>
 
-| Languages |  |
+| Languages & Skills |  |
 |----------|----|
-| 🧬 C/C++ | 🐍 Python |
-| 🐚 Bash | 🚀 Go |
-| 💾 Assembly (x86/x64) | 🦀 Rust (in progress) |
+| 🧬 C/C++ & Memory Management | 🔍 Compiler Internals |
+| 💾 Assembly (x86/x64/ARM) | ⚙️ Binary Format Analysis |
+| 🧩 Syscall Implementation | 🧪 CPU Architecture |
+| 🔧 Kernel Module Development | 🔌 Hardware Interfacing |
 
 </p>
 </details>
 
 <details>
-<summary><strong>🛠️ Systems & Low-Level Dev</strong></summary>
+<summary><strong>🛠️ Systems & Low-Level Security</strong></summary>
 
 <p>
 
 | Topics |  |
 |--------|----|
-| 🧩 Linux syscalls | 🔍 `/proc`, `ptrace` |
-| 🧠 Memory manipulation | 🧵 Thread injection |
-| 🌐 Raw sockets | 🧪 Syscall tracing |
+| 🧠 Buffer Overflow & ROP Chains | 🦠 Rootkit Development & Analysis |
+| 🔍 Process Memory Forensics | 🧵 Thread Injection Techniques |
+| 🌐 Raw Socket Programming | 💉 Return-Oriented Programming |
+| 🔐 Firmware Security | 🔭 Side-Channel Attack Analysis |
 
 </p>
 </details>
 
 <details>
-<summary><strong>🧠 Cybersecurity Toolkit</strong></summary>
+<summary><strong>🧠 Cybersecurity Specializations</strong></summary>
 
 <p>
 
-| Tools |  |
+| Tools & Areas |  |
 |-------|----|
-| 🌐 Nmap, Wireshark, Nessus | 📡 Network pentesting |
-| 🧨 GDB, Radare2, pwndbg | 🧫 Reverse engineering |
-| 🧱 iptables, nftables | 🛡️ OSINT |
-| 💻 Netcat, socat, curl | 🧪 QEMU/KVM labs |
-|flag{Y3S_1_U5E_4i_to_hack}|AI in security|
+| 🌐 Advanced Network Exploitation | 📡 Red Team Operations |
+| 🧨 Fuzzing & Vulnerability Discovery | 🧫 Malware Analysis |
+| 🧱 Kernel Security | 🛡️ Advanced OSINT Techniques |
+| 💻 Exploit Development | 🧪 Sandbox Evasion |
+| 🔐 Applied Cryptography | 🤖 AI Security Vulnerabilities |
+
 </p>
 </details>
 
 <details>
-<summary><strong>🗃️ Infra / Deployment</strong></summary>
+<summary><strong>🗃️ Infrastructure & DevSecOps</strong></summary>
 
 <p>
 
 | Stack |  |
 |-------|----|
-| 🐳 Docker | 🧩 systemd |
-| 🔑 OpenSSH | 🔁 Git, Gitea |
-| 🧭 Neovim, tmux | 🧮 htop, lsof |
+| 🐳 Container Escape Techniques | 🧩 Secure System Design |
+| 🔑 Hardware Security Modules | 🔁 Supply Chain Security |
+| 🧭 Custom Security Tooling | 🧮 Binary Instrumentation |
 
 </p>
 </details>
@@ -90,31 +91,32 @@
 
 ---
 
-### 🧠 Currently Hacking On:
-- Decentralized crawling infrastructure 🕸️  
-- Real-time shell injection frameworks 🐚  
-- A terminal-based file manager 🗂️  
-- SDN - new Rust-based protocols 🌐  
-- A modular UNIX-like OS project 🧬  
+### 🧠 Current Club Projects:
+- Bare-metal hypervisor security framework 🖥️
+- Custom bootloader with security enhancements ⚙️  
+- Low-level memory corruption CTF challenges 🧠
+- Firmware analysis toolkit for IoT devices 📟
+- Binary exploitation training pipeline 💉
+- Linux kernel module security analysis 🐧  
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 Club Achievements
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide=css" alt="Top Langs" /></td>
-  </tr>
-</table>
+- Developed a custom reverse engineering toolkit used in security courses
+- Published research on novel memory corruption techniques
+- Placed in top 10% at international low-level CTF competitions
+- Members recruited by leading security research teams
+- Hosted specialized workshops on binary exploitation and low-level security
 
 ---
 
-### 📫 Connect with Me
-- Email: suryanshdeshwal@gmail.com  
-- GitHub: [ethical-buddy](https://github.com/ethical-buddy)  
-- Portfolio: [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/)
+### 📫 Connect with VOID Society
+- Email: voidsociety@kiet.edu  
+- GitHub: [VOID-Society](https://github.com/VOID-Society)  
+- Website: [void-society.kiet.edu](https://void-society.kiet.edu)
+- Instagram: [@void.society.kiet](https://instagram.com/void.society.kiet)
 
-> 🔐 *Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered.*
+> 🔐 *In the VOID, we dive deeper than others dare, finding vulnerabilities where others see only darkness.*
 
 ---
